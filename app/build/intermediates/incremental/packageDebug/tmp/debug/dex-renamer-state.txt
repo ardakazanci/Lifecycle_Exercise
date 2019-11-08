@@ -1,0 +1,4 @@
+#Thu Nov 07 22:44:02 EET 2019
+base.0=/Users/ardakazanci/Documents/AAC_Exercise/Lifecycle_Exercise/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
